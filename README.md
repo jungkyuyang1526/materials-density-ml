@@ -88,16 +88,6 @@ Neighbors using structural features.
 - Test MAE: 0.2025 g/cm³
 - Test R²: 0.7449
 - Improvement over mean baseline: 58.2%
-After execution, report:
-
-- retrieved and retained sample counts,
-- number of unique formula groups,
-- selected feature set and model,
-- grouped CV RMSE mean and standard deviation,
-- test RMSE, MAE, and R²,
-- comparison with the mean baseline,
-- whether combined features improved on composition-only features, and
-- major limitations and observed error patterns.
 
 
 ## Selected Model Performance
