@@ -98,7 +98,7 @@ After execution, report:
 - whether combined features improved on composition-only features, and
 - major limitations and observed error patterns.
 
-Do not add results to this README until the notebook has been run from a clean environment and the outputs have been verified.
+
 
 ## Limitations
 
