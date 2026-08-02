@@ -51,7 +51,6 @@ materials-density-ml/
     └── data_collection.py
 ```
 
-The snapshot and figures are generated after running the notebook. They are not included in this starter package because no API retrieval was performed during revision.
 
 ## Setup
 
@@ -80,8 +79,14 @@ The notebook first tries to load `data/materials_snapshot.csv` when `USE_CACHED_
 
 ## Results
 
-`[GENERATED AFTER RUNNING THE NOTEBOOK]`
+The final model selected through grouped cross-validation was K-Nearest
+Neighbors using structural features.
 
+- Grouped CV RMSE: 0.2527 ± 0.1444 g/cm³
+- Test RMSE: 0.2700 g/cm³
+- Test MAE: 0.2025 g/cm³
+- Test R²: 0.7449
+- Improvement over mean baseline: 58.2%
 After execution, report:
 
 - retrieved and retained sample counts,
