@@ -1,0 +1,11 @@
+{
+  "data_retrieval_date": "2026-08-02",
+  "materials_project_database_version": "2026.04.13",
+  "source": "Materials Project summary API",
+  "chemical_system_queries": [
+    "Si-O",
+    "Al-O-Si"
+  ],
+  "include_gnome": false,
+  "deprecated": false
+}
