@@ -92,9 +92,9 @@ Neighbors using structural features.
 
 ## Selected Model Performance
 
-[Parity plot](figures/parity_plot.png)
+![Parity plot](figures/parity_plot.png)
 
-[Model comparison](figures/model_comparison.png)
+![Model comparison](figures/model_comparison.png)
 
 ## Limitations
 
