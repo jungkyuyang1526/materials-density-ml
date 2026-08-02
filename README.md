@@ -16,9 +16,10 @@ How accurately can material density be predicted from a small set of physically 
 
 The project uses grouped train–test splitting and grouped cross-validation by reduced formula so polymorphs with the same formula are not divided across training and test data.
 
-## Security notice
+## Credentials
 
-An API key was embedded in an earlier notebook version. That key must be revoked before publication. This repository never stores a credential. Set a replacement key only through the `MP_API_KEY` environment variable.
+Materials Project credentials are read from the `MP_API_KEY`
+environment variable. No credentials are stored in this repository.
 
 macOS/Linux:
 
