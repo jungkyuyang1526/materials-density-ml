@@ -114,7 +114,3 @@ The analysis is restricted to Si–O and Si–Al–O computational entries, uses
 - Materials Project API documentation
 - `mp-api` client documentation
 - scikit-learn grouped cross-validation and pipeline documentation
-
-## License
-
-Add a license appropriate for the intended reuse before publication.
