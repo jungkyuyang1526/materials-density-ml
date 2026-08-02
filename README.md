@@ -99,6 +99,11 @@ After execution, report:
 - major limitations and observed error patterns.
 
 
+## Selected Model Performance
+
+[Parity plot](figures/parity_plot.png)
+
+[Model comparison](figures/model_comparison.png)
 
 ## Limitations
 
